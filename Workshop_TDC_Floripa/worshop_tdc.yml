@@ -1,4 +1,4 @@
-name: /home/datascience/conda/python_p311_any_x86_64_v2
+name: python_p311_any_x86_64_v2
 channels:
   - conda-forge
 dependencies:
@@ -160,7 +160,6 @@ dependencies:
       - mcp==1.9.3
       - mdurl==0.1.2
       - oci==2.154.0
-      - oci-cli==3.54.1
       - prompt-toolkit==3.0.43
       - pydantic==2.11.5
       - pydantic-core==2.33.2
